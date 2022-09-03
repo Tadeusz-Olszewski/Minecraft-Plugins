@@ -1,0 +1,4 @@
+name: StoneGenerator
+version: '${project.version}'
+main: com.tadzio.stonegenerator.StoneGenerator
+api-version: 1.19

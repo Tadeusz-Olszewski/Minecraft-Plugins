@@ -1,0 +1,4 @@
+name: ClearLag
+version: '${project.version}'
+main: com.tadzio.clearlag.ClearLag
+api-version: 1.19

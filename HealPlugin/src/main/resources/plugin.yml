@@ -1,0 +1,12 @@
+name: Heal
+version: '${project.version}'
+main: com.tadzio.heal.Heal
+api-version: 1.19
+
+commands:
+  heal:
+
+permissions:
+  heal:
+    me:
+    player:

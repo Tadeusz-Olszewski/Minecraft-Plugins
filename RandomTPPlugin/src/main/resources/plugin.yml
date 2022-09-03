@@ -1,0 +1,11 @@
+name: RandomTP
+version: '${project.version}'
+main: com.tadzio.randomtp.RandomTP
+api-version: 1.19
+
+commands:
+  rtp:
+
+permissions:
+  rtp:
+    give:

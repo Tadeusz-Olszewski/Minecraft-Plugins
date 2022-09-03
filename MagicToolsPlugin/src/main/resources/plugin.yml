@@ -1,0 +1,14 @@
+name: MagicTools
+version: '${project.version}'
+main: com.tadzio.magictools.MagicTools
+api-version: 1.19
+
+commands:
+  magictools:
+    aliases: "mt"
+
+permissions:
+  magictools:
+    give:
+    use:
+      shootsword:

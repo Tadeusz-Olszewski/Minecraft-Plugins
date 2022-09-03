@@ -1,0 +1,4 @@
+name: CustomMessage
+version: '${project.version}'
+main: com.tadzio.custommessage.CustomMessage
+api-version: 1.19

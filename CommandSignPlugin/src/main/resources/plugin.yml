@@ -1,0 +1,9 @@
+name: CommandSign
+version: '${project.version}'
+main: com.tadzio.commandsign.CommandSign
+api-version: 1.19
+
+permissions:
+  sign:
+    set:
+    use:

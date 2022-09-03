@@ -1,0 +1,6 @@
+clear-time: 900
+
+clear-first-message: "&8[&aClearLag&8]&f Items have been removed in 15s"
+clear-second-message: "&8[&aClearLag&8]&f Items have been removed in 10s"
+clear-third-message: "&8[&aClearLag&8]&f Items have been removed in 5s"
+cleared-items-message: "&8[&aClearLag&8]&f {ITEMS_AMOUNT} items have removed"

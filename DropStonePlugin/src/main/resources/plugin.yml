@@ -1,0 +1,4 @@
+name: DropStone
+version: '${project.version}'
+main: com.tadzio.dropstone.DropStone
+api-version: 1.19

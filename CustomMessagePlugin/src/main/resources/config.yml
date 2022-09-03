@@ -1,0 +1,2 @@
+on-join: "&8[&a+&8]&f {PLAYER}"
+on-quit: "&8[&c-&8]&f {PLAYER}"

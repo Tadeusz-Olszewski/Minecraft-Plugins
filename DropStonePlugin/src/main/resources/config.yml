@@ -1,0 +1,15 @@
+EMERALD:
+  chance: 50
+  message: "&aEmerald"
+DIAMOND:
+  chance: 20
+  message: "&bDiamond"
+APPLE:
+  chance: 20
+  message: "&4Apple"
+COAL:
+  chance: 10
+  message: "&0Coal"
+COBBLESTONE:
+  chance: 100
+  message: "&7Cobblestone"

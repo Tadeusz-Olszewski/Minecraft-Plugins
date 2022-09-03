@@ -1,0 +1,15 @@
+name: WorldManager
+version: '${project.version}'
+main: com.tadzio.worldmanager.WorldManager
+api-version: 1.19
+
+commands:
+  worldmanager:
+    aliases: wm
+
+permissions:
+  wm:
+    list:
+    tp:
+    delete:
+    create:

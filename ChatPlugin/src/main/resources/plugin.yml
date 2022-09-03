@@ -1,0 +1,15 @@
+name: Chat
+version: '${project.version}'
+main: com.tadzio.chat.Chat
+api-version: 1.19
+
+commands:
+  chat:
+
+permissions:
+  chat:
+    on:
+    off:
+    clear:
+    bypass:
+    help:

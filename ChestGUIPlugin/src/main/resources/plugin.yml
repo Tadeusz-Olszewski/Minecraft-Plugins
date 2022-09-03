@@ -1,0 +1,4 @@
+name: ChestGUI
+version: '${project.version}'
+main: com.tadzio.chestgui.ChestGUI
+api-version: 1.19

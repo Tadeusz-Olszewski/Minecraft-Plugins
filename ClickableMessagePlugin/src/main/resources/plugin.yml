@@ -1,0 +1,4 @@
+name: ClickableMessage
+version: '${project.version}'
+main: com.tadzio.clickablemessage.ClickableMessage
+api-version: 1.19
